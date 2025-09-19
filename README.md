@@ -4,7 +4,7 @@
 - 🔭 Currently: finishing Full-Stack frontend course (React)  
 - 🧰 Tech: Python, Django, Django REST Framework, PostgreSQL, Docker, Git, Heroku & AWS basics  
 - 🛠️ Projects: E-commerce (Django), Task API (DRF + JWT), Deployment with Docker  
-- 📫 Contact: your.email@example.com | [LinkedIn](https://linkedin.com/in/your-link)  
+- 📫 Contact: m.salkhorde444@gmail.com | [LinkedIn](https://www.linkedin.com/in/mohammad-salkhorde-a13767385)  
 - 📝 Certificates: Python & Django certificates (Academy Dersman), Harvard CS & Python
 
 ---
