@@ -1,16 +1,38 @@
 # Hi, I'm Mohammad 👋
-**Python / Django Backend Developer** — building REST APIs, e-commerce platforms and scalable web apps.
-
-- 🔭 Currently: finishing Full-Stack frontend course (React)  
-- 🧰 Tech: Python, Django, Django REST Framework, PostgreSQL, Docker, Git, Heroku & AWS basics  
-- 🛠️ Projects: E-commerce (Django), Task API (DRF + JWT), Deployment with Docker  
-- 📫 Contact: m.salkhorde444@gmail.com | [LinkedIn](https://www.linkedin.com/in/mohammad-salkhorde-a13767385)  
-- 📝 Certificates: Python & Django certificates (Academy Dersman), Harvard CS & Python
+**Python / Django Backend Developer** — building REST APIs and web applications.  
+Currently learning full-stack frontend development (React) to become a complete full-stack developer.  
+Open to freelance & remote opportunities.
 
 ---
 
-### Featured Projects
-- **E-commerce Django** — `github.com/USERNAME/ecommerce` — Full shop with auth, product CRUD, cart & checkout demo.  
-- **Task Manager API** — `github.com/USERNAME/task-api` — DRF, JWT, Docker, tests.
+## 🛠 Tech & Tools
+Python 🐍 | Django 🌐 | Django REST Framework 🔗 | PostgreSQL 🗄 | MySQL 🗄 | MongoDB 🗄 | SQLite 🗄 | Git 🔧
 
-> I'm open for freelance and remote roles — feel free to message me.
+---
+
+## 🚀 Featured Projects
+- **E-commerce Django** — [GitHub](https://github.com/USERNAME/ecommerce) | [Live Demo](https://myshop.onrender.com)  
+Full-featured e-commerce platform with user authentication, product CRUD, shopping cart, and checkout demo.
+
+- **Task Manager API** — [GitHub](https://github.com/USERNAME/task-api)  
+REST API built with Django REST Framework and JWT authentication. Includes tests and API documentation.
+
+---
+
+## 🎓 Certificates
+- Advanced Python — Academy Dersman  
+- Advanced Django — Academy Dersman  
+- Python Programming — Harvard University  
+- Computer Science Fundamentals — Harvard University  
+- 10-Finger Typing — Typo Institute
+
+---
+
+## 📫 Contact
+- Email: m.salkhorde444@gmail.com  
+- LinkedIn: [linkedin.com/in/mohammad-salkhorde-a13767385](https://www.linkedin.com/in/mohammad-salkhorde-a13767385)  
+- Portfolio: [myportfolio.com](https://myportfolio.com)
+
+---
+
+> I'm open to freelance and remote roles — feel free to message me.
