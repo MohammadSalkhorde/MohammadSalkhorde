@@ -31,7 +31,7 @@ REST API built with Django REST Framework and JWT authentication. Includes tests
 ## 📫 Contact
 - Email: m.salkhorde444@gmail.com  
 - LinkedIn: [linkedin.com/in/mohammad-salkhorde-a13767385](https://www.linkedin.com/in/mohammad-salkhorde-a13767385)  
-- Portfolio: [myportfolio.com](https://myportfolio.com)
+- Portfolio: [https://MohammadSalkhorde.github.io/portfolio/](https://MohammadSalkhorde.github.io/portfolio/)
 
 ---
 
