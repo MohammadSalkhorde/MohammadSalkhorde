@@ -11,10 +11,10 @@ Python 🐍 | Django 🌐 | Django REST Framework 🔗 | PostgreSQL 🗄 | MySQL
 ---
 
 ## 🚀 Featured Projects
-- **E-commerce Django** — [GitHub](https://github.com/USERNAME/ecommerce) | [Live Demo](https://myshop.onrender.com)  
+- **E-commerce Django** — [GitHub](https://github.com/MohammadSalkhorde/shop_project) | [Live Demo](#)  
 Full-featured e-commerce platform with user authentication, product CRUD, shopping cart, and checkout demo.
 
-- **Task Manager API** — [GitHub](https://github.com/USERNAME/task-api)  
+- **Task Manager API** — [GitHub](#)  
 REST API built with Django REST Framework and JWT authentication. Includes tests and API documentation.
 
 ---
