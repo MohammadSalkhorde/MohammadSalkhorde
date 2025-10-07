@@ -11,10 +11,10 @@ Python 🐍 | Django 🌐 | Django REST Framework 🔗 | PostgreSQL 🗄 | MySQL
 ---
 
 ## 🚀 Featured Projects
-- **E-commerce Django** — [GitHub](https://github.com/MohammadSalkhorde/shop_project)
+- **E-commerce Django** — [GitHub](https://github.com/MohammadSalkhorde/shop_project)     
 Full-featured e-commerce platform with user authentication, product CRUD, shopping cart, and checkout demo.
 
-- **Bagh Ferdows Tehran Website** — [GitHub](https://github.com/MohammadSalkhorde/bagh-ferdows-website)
+- **Bagh Ferdows Tehran Website** — [GitHub](https://github.com/MohammadSalkhorde/bagh-ferdows-website)    
 Dynamic website showcasing historical and cultural sites of Bagh Ferdows. Features user registration, experience sharing, ticket booking, and full content management via the Django admin panel.
 
 ---
