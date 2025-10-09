@@ -12,16 +12,16 @@ Python 🐍 | Django 🌐 | Django REST Framework 🔗 | PostgreSQL 🗄 | MySQL
 
 ## 🚀 Featured Projects
 
-* **E-commerce Django** — [GitHub](https://github.com/MohammadSalkhorde/shop_project)
+* **E-commerce Django** — [GitHub](https://github.com/MohammadSalkhorde/shop_project)               
   Full-featured e-commerce platform with user authentication, product CRUD, shopping cart, and checkout demo.
 
-* **Online Supermarket** — [GitHub](https://github.com/MohammadSalkhorde/supermarket_project)
+* **Online Supermarket** — [GitHub](https://github.com/MohammadSalkhorde/supermarket_project)          
   An online supermarket system with categorized products, SMS-based user authentication, shopping cart, product reviews, and secure checkout integration.
 
-* **Bagh Ferdows Tehran Website** — [GitHub](https://github.com/MohammadSalkhorde/bagh-ferdows-website)
+* **Bagh Ferdows Tehran Website** — [GitHub](https://github.com/MohammadSalkhorde/bagh-ferdows-website)            
   Dynamic website showcasing historical and cultural attractions of Bagh Ferdows. Includes user registration, experience sharing, ticket booking, and full CMS powered by Django Admin.
 
-* **Personal Portfolio Website** — [GitHub](https://github.com/MohammadSalkhorde/portfolio)
+* **Personal Portfolio Website** — [GitHub](https://github.com/MohammadSalkhorde/portfolio)           
   Responsive personal portfolio built with HTML, CSS, JavaScript, and Django backend integration. Highlights skills, services, and featured projects with interactive UI and animations.
 
 --- 
