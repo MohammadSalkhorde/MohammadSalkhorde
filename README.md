@@ -16,7 +16,8 @@ Python 🐍 | Django 🌐 | Django REST Framework 🔗 | PostgreSQL 🗄 | MySQL
   Full-featured e-commerce platform with user authentication, product CRUD, shopping cart, and checkout demo.
 
 * **Online Supermarket** — [GitHub](https://github.com/MohammadSalkhorde/online-supermarket)            
-  An online supermarket system with categorized products, SMS-based user authentication, shopping cart, product reviews, and secure checkout integration.
+  Online supermarket system with categorized products, SMS-based user registration and authentication, product browsing, search & filtering, product reviews, shopping cart, and order tracking. Includes admin
+  panel for managing products, categories, and orders.
 
 * **Bagh Ferdows Tehran Website** — [GitHub](https://github.com/MohammadSalkhorde/bagh-ferdows-website)            
   Dynamic website showcasing historical and cultural attractions of Bagh Ferdows. Includes user registration, experience sharing, ticket booking, and full CMS powered by Django Admin.
