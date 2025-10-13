@@ -6,7 +6,7 @@ Open to freelance & remote opportunities.
 ---
 
 ## 🛠 Tech & Tools
-Python 🐍 | Django 🌐 | Django REST Framework 🔗 | PostgreSQL 🗄 | MySQL 🗄 | MongoDB 🗄 | SQLite 🗄 | Git 🔧
+Python 🐍 | Django 🌐 | Django REST Framework 🔗 | MySQL 🗄 | Git 🔧
 
 ---
 
