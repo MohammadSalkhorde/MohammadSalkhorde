@@ -68,13 +68,30 @@ Python / Django Backend Developer — building scalable web applications and RES
 
 ## 🎓 Certificates
 
-- Advanced Python — Academy Dersman  
-- Advanced Django — Academy Dersman  
-- Python Programming — Harvard University  
-- Computer Science Fundamentals — Harvard University  
-- 10-Finger Typing — Typo Institute  
+- Git, GitHub & GitLab Training Certificate | Oct 2025  
+  FaraDars | online  
+  [Credential Link](https://faradars.org/verify/44B7B455)
 
-> Certificates and documents available upon request.
+- Store Project Certificate | Jan 2025  
+  Darsman | online  
+  Credential ID: 0010053580
+
+- Advanced Django Framework Certificate | Nov 2024  
+  Darsman | online  
+  Credential ID: 0009053580
+
+- Advanced Python Certificate | Sep 2024  
+  Darsman | online  
+  Credential ID: 0008053580
+
+- Computer Science Fundamentals Certificate | Oct 2024  
+  Harvard University | online  
+  [Credential Link](https://cs50.harvard.edu/certificates/13706a13-8d20-4b62-9227-203fb5d26c6c)
+
+- Python Certificate | Feb 2024  
+  Harvard University | online  
+  [Credential Link](https://cs50.harvard.edu/certificates/99bf8acd-50ae-43bb-b4c7-bad96d506c3c)
+
 
 ---
 
