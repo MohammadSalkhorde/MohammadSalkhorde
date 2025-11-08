@@ -1,47 +1,90 @@
-# Hi, I'm Mohammad 👋
-**Python / Django Backend Developer** — building REST APIs and web applications.  
-Currently learning full-stack frontend development (React) to become a complete full-stack developer.  
-Open to freelance & remote opportunities.
+# 👋 Hi, I'm Mohammad Salkhorde
+
+Python / Django Backend Developer — building scalable web applications and REST APIs. Currently expanding frontend expertise with React to grow into a full-stack developer.
+
+> “Passionate about building maintainable, scalable, and secure web applications with modern tech stacks.”
 
 ---
 
-## 🛠 Tech & Tools
-Python 🐍 | Django 🌐 | Django REST Framework 🔗 | MySQL 🗄 | Git 🔧
+## 🛠 Tech Stack & Tools
+
+| Backend | Frontend | Database | DevOps / Others |
+|--------|---------|---------|----------------|
+| Python 🐍 | HTML5 | MySQL 🗄 | Git 🔧 |
+| Django 🌐 | CSS3 | MongoDB 🗄 | Docker 🐳 |
+| Django REST Framework 🔗 | JavaScript (ES6) | Redis ⚡ | .env / API Integration |
 
 ---
 
 ## 🚀 Featured Projects
 
-* **E-commerce Django** — [GitHub](https://github.com/MohammadSalkhorde/shop_project)               
-  Full-featured e-commerce platform with user authentication, product CRUD, shopping cart, and checkout demo.
+### 1️⃣ [ProShop – Professional E-commerce Platform](https://github.com/MohammadSalkhorde/shop_project)
+**Tech:** Django, Django REST Framework, MySQL, ZarinPal, Kavenegar API  
+**Overview:** Fully-featured e-commerce platform with SMS-based authentication, shopping cart, checkout, and admin dashboard. Designed for production-level e-commerce systems.  
+**Highlights:**  
+- Modular DRF architecture for maintainability  
+- SMS-based authentication via Kavenegar API  
+- Integrated ZarinPal Payment Gateway  
+- Admin dashboard for products, orders, discounts  
+- Clean, scalable, and production-ready  
 
-* **Online Supermarket** — [GitHub](https://github.com/MohammadSalkhorde/online-supermarket)            
-  Online supermarket system with categorized products, SMS-based user registration and authentication, product browsing, search & filtering, product reviews, shopping cart, and order tracking. Includes admin
-  panel for managing products, categories, and orders.
+### 2️⃣ [Online Supermarket – SuperShop](https://github.com/MohammadSalkhorde/online-supermarket)
+**Tech:** Django, Python, MySQL  
+**Overview:** Online supermarket platform for product browsing, ordering, and admin management. Includes SMS-based authentication and fully functional user panel.  
+**Highlights:**  
+- User registration with SMS authentication  
+- Categorized products with search & filtering  
+- Shopping cart and order tracking  
+- Admin panel for managing products, categories, and orders  
 
-* **Bagh Ferdows Tehran Website** — [GitHub](https://github.com/MohammadSalkhorde/bagh-ferdows-website)     
-  Dynamic website showcasing historical and cultural attractions of Bagh Ferdows. Users can register, share experiences, book tickets, and all content is manageable via Django Admin.
+### 3️⃣ [NumberPro – Virtual Number Management Panel](https://github.com/MohammadSalkhorde/NumberPro)
+**Tech:** Django 5, Python, MySQL, NumberLand API  
+**Overview:** Modern, responsive panel for resellers to manage virtual numbers manually. Admin login system, organized interface, and RTL-compatible. Easily extendable to a fully automated system in future.  
+**Highlights:**  
+- Admin login and secure session management  
+- Fetch and manage virtual numbers from NumberLand API  
+- Clean, modular, and scalable architecture  
+- Responsive and modern UI design  
+- Ready for production deployment
 
-* **Personal Portfolio Website** — [GitHub](https://github.com/MohammadSalkhorde/portfolio)           
-  Responsive personal portfolio built with HTML, CSS, JavaScript, and Django backend integration. Highlights skills, services, and featured projects with interactive UI and animations.
+### 4️⃣ [Bagh Ferdows Tehran Website](https://github.com/MohammadSalkhorde/bagh-ferdows-website)
+**Tech:** Django, HTML, CSS, JavaScript  
+**Overview:** Dynamic tourism website showcasing historical and cultural attractions of Bagh Ferdows. Users can register, submit content, book tickets, all manageable via Django Admin.  
+**Highlights:**  
+- User registration and content management  
+- Interactive booking system  
+- Fully manageable via Django Admin panel  
 
---- 
+### 5️⃣ [Personal Portfolio Website](https://github.com/MohammadSalkhorde/portfolio)
+**Tech:** Django, HTML, CSS, JavaScript  
+**Overview:** Responsive portfolio site highlighting skills, projects, and services. Includes dark mode, smooth transitions, and interactive UI.  
+**Highlights:**  
+- Responsive, mobile-friendly design  
+- Interactive project modals and animations  
+- Smooth scrolling navigation with Scrollspy  
+- Contact form with validation  
 
+---
 
 ## 🎓 Certificates
+
 - Advanced Python — Academy Dersman  
 - Advanced Django — Academy Dersman  
 - Python Programming — Harvard University  
 - Computer Science Fundamentals — Harvard University  
-- 10-Finger Typing — Typo Institute
+- 10-Finger Typing — Typo Institute  
+
+> Certificates and documents available upon request.
 
 ---
 
 ## 📫 Contact
-- Email: m.salkhorde444@gmail.com  
-- LinkedIn: [linkedin.com/in/mohammad-salkhorde-a13767385](https://www.linkedin.com/in/mohammad-salkhorde-a13767385)  
-- Portfolio: [https://mohammad-salkhorde.ir](https://mohammad-salkhorde.ir)
+
+- **Email:** m.salkhorde444@gmail.com  
+- **LinkedIn:** [linkedin.com/in/mohammad-salkhorde-a13767385](https://www.linkedin.com/in/mohammad-salkhorde-a13767385)  
+- **Portfolio:** [https://mohammad-salkhorde.ir](https://mohammad-salkhorde.ir)  
+- **GitHub:** [https://github.com/MohammadSalkhorde](https://github.com/MohammadSalkhorde)
 
 ---
 
-> I'm open to freelance and remote roles — feel free to message me.
+> Open to freelance and remote opportunities — feel free to reach out for collaborations or project discussions.
